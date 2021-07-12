@@ -1,0 +1,12 @@
+{
+    "domain": "water_level_guage",
+    "name": "Water Level Guage",
+    "documentation": "https://github.com/idekm/water-level-guage",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/idekm/water-level-guage/issues",
+    "version": "0.0.0",
+    "config_flow": true,
+    "codeowners": [
+      "@idekm"
+    ]
+  }
